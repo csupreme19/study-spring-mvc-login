@@ -10,3 +10,4 @@ server:
   servlet:
     session:
       tracking-modes: cookie
+      timeout: 30m
